@@ -11,8 +11,8 @@ body::before {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 20%;
+    height: 50%;
     background-size: cover;
      z-index: -1;
     background-image: linear-gradient(115deg,rgba(54, 178, 235, 0.5), rgba(9, 86, 228, 0.5)),
